@@ -10,8 +10,7 @@ var colors = [
   '#000',
   '#fff',
 ];
-function preload() {
-}
+
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
